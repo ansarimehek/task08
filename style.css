@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+
+.firstbox {
+    background-image: url(./assets/career.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 70px;
+}
