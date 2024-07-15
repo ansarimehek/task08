@@ -1,11 +1,33 @@
 body {
     background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .firstbox {
-    background-image: url(./assets/career.jpg);
+    /* background-image: url(./assets/career.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    padding: 70px;
+    /* padding: 70px; */
 }
+
+.banner-text {
+    position: absolute;
+    top: 70%;
+    color: #fff;
+    padding: 20px;
+    font-size: 26px;
+}
+
+
+.secondbox{
+    position: relative;
+}
+
+.banner {
+    position: absolute;
+    top: 40px;
+    color: rgb(247, 241, 241);
+    padding: 40px;
+}
+
