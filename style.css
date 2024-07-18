@@ -12,7 +12,7 @@ body{
 .banner-text {
     position: absolute;
     top: 60%;
-    color: white;
+    color: black;
     padding: 50px;
     font-size: 26px;
 }
@@ -27,8 +27,15 @@ body{
 
 .banner {
     position: absolute;
-    color: white;
+    color: black;
     padding: 40px;
     top: 150px;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: grey;
+    color: white;
+  }
 
