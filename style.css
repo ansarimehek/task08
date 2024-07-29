@@ -48,3 +48,18 @@ footer {
     margin-top:20px;
     margin-bottom:40px;
 }
+
+@media only screen and (min-width:600px  ) {
+    .img-fluid {
+        height: 500px !important;
+    }
+
+    .banner {
+        top: 0px;
+    }
+    .banner h5{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    
+}
